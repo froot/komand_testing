@@ -1,15 +1,12 @@
-- name: Shopify/shopify
-  deploy_environments:
-    - production
-    - canaries
+- name: Hello/bye
   labels:
     - soc-2
 
-- name: Shopify/web
+- name: no/yes
   labels:
     - soc-2
 
-- name: Shopify/online-store-web
+- name: testing/me
   labels:
     - soc-2
 
