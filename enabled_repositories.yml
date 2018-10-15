@@ -10,6 +10,6 @@
   labels:
     - soc-2
 
-- name: Lulu-sheng/komand_testing
+- name: Lulu-sheng/komand_testingZ
   labels:
-    - nooope
+    - soc-2
