@@ -12,5 +12,4 @@
 
 - name: Lulu-sheng/komand_testing
   labels:
-    - soc-2
     - another_label
